@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="assets/coding_anime.gif" width="40" style="vertical-align: middle; margin-right: 10px;" />
+<p>
+  <img src="assets/coding_anime.gif" width="270" style="vertical-align: middle; margin-right: 10px;" />
   <strong style="font-size: 2em;">
     <img src="assets/logocodokoclub.png" width="500" />
   </strong>
